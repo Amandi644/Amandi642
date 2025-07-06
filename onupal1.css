@@ -1,0 +1,63 @@
+body{
+  background-color:rgba(207, 230, 174, 0.664) ;
+}
+.onu-palm{
+  
+  background-color: rgba(0, 0, 0, 0.781);
+  font-size:2rem;
+  margin: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-right-style: dashed;
+  border-radius: 8px;
+  color:rgb(180, 181, 187);
+
+ 
+}
+.tweeter-facebook,
+.button-btn,
+.input-youtube{
+  border: none;
+  margin:4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  text-align: center;
+  font-size: 16px;
+  background-color: blue;
+  background-color: rgb(62, 85, 62);
+  color: white;
+  border-radius: 8px;
+transition: 1.8s;
+cursor: pointer;
+}
+img,
+img{
+  margin:10px;
+  box-sizing: border-box;
+  width: 1300px;
+
+}
+.p-umucheke{
+margin:8px;
+line-height:20px;
+color: black;
+
+}
+
+
+
+.tweeter-facebook:hover{
+ background-color: rgb(41, 118, 255);
+}
+
+.button-btn:hover{
+  background-color: rgb(218, 78, 108);
+}
+
+.input-youtube:hover:active{
+  background-color: rgb(41, 118, 255);
+}
